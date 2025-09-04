@@ -1,0 +1,2 @@
+# Predictive-Modeling-using-the-customer-churn-prediction-using-ml-algotihms
+In this customer churn prediction project I can work on the Data and using the ml algorithms like a Random Forrest and XgBoost build the ml model using that business help to finding to how manty customers can be cancel there services in future days so which is this project is beneficial to companies growth and acquiring new customers.
